@@ -1,0 +1,37 @@
+h3 {
+    background-color: rgb(65, 65, 87);
+    color: rgb(228, 8, 81);
+    height: 40px;
+    text-align: left;
+    margin: 0px;
+    padding-top: 5px;
+    font-size: 20px;
+   padding-left: 5px;
+}
+
+.yazi {
+    text-decoration: none;
+    color: white;
+    margin-left: 8px;
+    font-size: 20px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.yazi-bir {
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.yazi-iki {
+    text-align: center;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
